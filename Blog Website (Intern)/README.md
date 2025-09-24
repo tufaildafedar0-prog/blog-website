@@ -35,12 +35,12 @@ This website features multiple blog posts, a comment system, search functionalit
 ---
 
 ## Live Demo
-Check the website live here: [Your GitHub Pages / Netlify link here]  
+Check the website live here:   
 
 ---
 
 ## Screenshot
-![Blog Screenshot](Images/blog2.avif)  
+![Blog Screenshot](Images/ss.png)  
 
 ---
 
@@ -53,10 +53,11 @@ Check the website live here: [Your GitHub Pages / Netlify link here]
 
 ## Author
 **Tufail Hasan**  
-Email: [Your Email]  
-LinkedIn: [Your LinkedIn profile]  
-GitHub: [Your GitHub profile]  
+Email: tufaildafedar0@gmail.com 
+LinkedIn: www.linkedin.com/in/tufailhasan3241
+GitHub: 
 
 ---
 
 **Note:** This is a frontend-only project. Comments are stored in browser `localStorage` and contact form does not have backend integration.
+
