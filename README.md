@@ -10,7 +10,6 @@ This website features multiple blog posts, a comment system, search functionalit
 - Responsive design for mobile and desktop screens  
 - Three blog posts with images, titles, content, and publication date  
 - Comment section for each blog post (stored locally using `localStorage`)  
-- Dark Mode toggle for modern UI/UX  
 - Navigation menu for easy browsing between pages  
 - Contact and About pages  
 - Smooth design with Bootstrap and custom CSS  
@@ -20,7 +19,7 @@ This website features multiple blog posts, a comment system, search functionalit
 ## Technologies Used
 - **HTML5** for structure  
 - **CSS3** for styling and layout  
-- **JavaScript** for interactivity (comments, dark mode, search)  
+- **JavaScript** for interactivity (comments, , search)  
 - **Bootstrap 5** for responsive design  
 - **Font Awesome** for icons  
 - **Google Fonts** for typography  
@@ -35,12 +34,12 @@ This website features multiple blog posts, a comment system, search functionalit
 ---
 
 ## Live Demo
-Check the website live here: [Your GitHub Pages / Netlify link here]  
+Check the website live here:  
 
 ---
 
 ## Screenshot
-![Blog Screenshot](Images/blog2.avif)  
+![Blog Screenshot](Images/ss.png)  
 
 ---
 
@@ -53,10 +52,11 @@ Check the website live here: [Your GitHub Pages / Netlify link here]
 
 ## Author
 **Tufail Hasan**  
-Email: [Your Email]  
-LinkedIn: [Your LinkedIn profile]  
+Email: tufaildafedar0@gmail.com 
+LinkedIn: www.linkedin.com/in/tufailhasan3241  
 GitHub: [Your GitHub profile]  
 
 ---
 
 **Note:** This is a frontend-only project. Comments are stored in browser `localStorage` and contact form does not have backend integration.
+
