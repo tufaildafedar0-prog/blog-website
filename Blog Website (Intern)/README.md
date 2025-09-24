@@ -55,9 +55,10 @@ Check the website live here:
 **Tufail Hasan**  
 Email: tufaildafedar0@gmail.com 
 LinkedIn: www.linkedin.com/in/tufailhasan3241
-GitHub: 
+GitHub: https://github.com/tufaildafedar0-prog
 
 ---
 
 **Note:** This is a frontend-only project. Comments are stored in browser `localStorage` and contact form does not have backend integration.
+
 
