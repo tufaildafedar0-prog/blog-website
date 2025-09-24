@@ -40,7 +40,7 @@ Check the website live here:
 ---
 
 ## Screenshot
-![Blog Screenshot](Blog Website (Intern)/Images/ss.png)  
+![Blog Screenshot](/Images/ss.png)  
 
 ---
 
