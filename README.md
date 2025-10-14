@@ -2,7 +2,7 @@
 
 ## Overview
 A responsive and interactive blog website built using **HTML, CSS, and JavaScript**.  
-This website features multiple blog posts, a comment system, search functionality, and a **dark mode toggle** for enhanced user experience.  
+This website features multiple blog posts, a comment system, search functionality for enhanced user experience.  
 
 ---
 
@@ -59,5 +59,6 @@ GitHub: https://github.com/tufaildafedar0-prog
 ---
 
 **Note:** This is a frontend-only project. Comments are stored in browser `localStorage` and contact form does not have backend integration.
+
 
 
