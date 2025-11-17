@@ -33,11 +33,6 @@ This website features multiple blog posts, a comment system, search functionalit
 
 ---
 
-## Live Demo
-Check the website live here:  
-
----
-
 ## Screenshot
 ![Blog Screenshot](Images/ss.png)  
 
@@ -59,6 +54,7 @@ GitHub: https://github.com/tufaildafedar0-prog
 ---
 
 **Note:** This is a frontend-only project. Comments are stored in browser `localStorage` and contact form does not have backend integration.
+
 
 
 
